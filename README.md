@@ -1,4 +1,4 @@
-# Self-Driving Course with JavaScript, Neural Networks, and Machine Learning
+# Self-Driving Project In JavaScript, Neural Networks, and Machine Learning
 
 ## Overview
 
